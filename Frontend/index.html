@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flash-Card Game</title>
+
+    <!-- local Bootstrap CSS file -->
+    <link href="libraries/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Link to Bootstrap JS -->
+    <script src="libraries/bootstrap/js/bootstrap.bundle.js" defer></script>
+    <!-- Own Styles -->
+    <link href="css/style.css" rel="stylesheet" />
+
+    <!-- Utils -->
+    <script src="js/utils/template-string-parser.util.js"></script>
+    <script src="js/utils/debug-log.util.js"></script>
+    <script src="js/utils/toast-message.util.js"></script>
+
+    <!-- Models -->
+    <script src="js/model/message.model.js"></script>
+    <script src="js/model/player.model.js"></script>
+    <script src="js/model/flash-card-player-answer.model.js"></script>
+    <script src="js/model/flash-card.model.js"></script>
+    <script src="js/model/chat.model.js"></script>
+
+    <!-- Design-Pattern -->
+    <script src="js/design-pattern/observer.js"></script>
+    <script src="js/design-pattern/subject.js"></script>
+    <script src="js/design-pattern/observer-subject.js"></script>
+
+    <!-- Services -->
+    <script defer src="js/service/socket.service.js"></script>
+    <script defer src="js/service/player.service.js"></script>
+    <script defer src="js/service/flash-card.service.js"></script>
+    <script defer src="js/service/chat.service.js"></script>
+    <script defer src="js/service/game.service.js"></script>
+
+    <!-- Components -->
+    <script defer src="js/components/flash-card-manager.component.js"></script>
+    <script defer src="js/components/flash-card.component.js"></script>
+    <script defer src="js/components/lobby.component.js"></script>
+    <script
+      defer
+      src="js/components/flash-card-game-results.component.js"
+    ></script>
+    <script defer src="js/components/chat.component.js"></script>
+    <script defer src="js/components/game.component.js"></script>
+
+    <!-- Main-Script -->
+    <script defer src="js/app.js"></script>
+  </head>
+  <body>
+    <h1 class="text-center">Flash-Card Game</h1>
+    <section id="app">
+      <!-- App injects here -->
+    </section>
+  </body>
+</html>

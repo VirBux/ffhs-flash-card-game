@@ -1,0 +1,37 @@
+### Node Modules ###
+/src/node_modules
+
+### IDE-Specific Directories & Files ###
+.idea/
+/.vscode
+
+### Build/Output Directories ###
+dist/
+build/
+out/
+
+### Logs ###
+*.log
+
+### Runtime Data ###
+pids
+*.pid
+*.seed
+*.pid.lock
+
+### Environment-specific Files ###
+.env
+
+### OS Generated Files ###
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+### Dependency Lock Files ###
+package-lock.json
+yarn.lock
+
+### Cache Folders ###
+.cache/
+
+### Coverage Reports ###
+coverage/

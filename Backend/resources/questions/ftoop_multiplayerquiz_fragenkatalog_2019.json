@@ -1,0 +1,368 @@
+[
+    {
+        "date": "2. Januar 2019",
+        "questions": [
+            {
+                "question": "",
+                "options": {
+                    "B": "nur Essen, das gekocht worden ist, etwas kostet",
+                    "A": "das Geld auf der Strasse liegt",
+                    "C": "Kinder ab sechs Jahren ihre eigenen Wohnungen haben"
+                },
+                "correct": "A"
+            },
+            {
+                "question": "Die im Norden Englands gelegene Stott Hall Farm ist die Heimat von 900 Zuchtschafen und ...?",
+                "options": {
+                    "A": "ist auf den Flaschenetiketten aller britischen Biere zu sehen",
+                    "B": "liegt zwischen den beiden Richtungsfahrbahnen einer Autobahn",
+                    "C": "ist der Geburtsort von Theresa May und Elton John"
+                },
+                "correct": "B"
+            },
+            {
+                "question": "Laut einer Entscheidung der Stadt Wien verstösst es gegen die seit 2018 in Europa geltende Datenschutzgrundverordnung, wenn ...?",
+                "options": {
+                    "A": "auf einem Kaffeebecher der Vorname eines Kunden steht",
+                    "B": "ein Friseur den Namen eines Kunden erfragt",
+                    "C": "ein Vermieter ein Klingelschild mit dem Mieternamen anbringt"
+                },
+                "correct": "C"
+            },
+            {
+                "question": "Welches Recht wurde 1907 den Kellnern der Pariser Bistroseingeräumt, nachdem sie wochenlang dafür gestreikt hatten?",
+                "options": {
+                    "A": "Baskenmützen in ihrer Freizeit zu tragen",
+                    "B": "sich einen Schnurrbart wachsen zu lassen",
+                    "C": "vom Gast unverzehrte Baguettes mit nach Hause zu nehmen"
+                },
+                "correct": "B"
+            },
+            {
+                "question": "Warum gibt es in der amerikanischen College-Basketball-Liga keine Rückennummern von 6 bis 9?",
+                "options": {
+                    "A": "um die Produktionskosten der Trikots niedrig zu halten",
+                    "B": "damit die Schiedsrichter sich leichter verständigen können",
+                    "C": "weil die Nummern an inaktive Legenden vergeben wurden"
+                },
+                "correct": "B"
+            },
+            {
+                "question": "Junge Hennen legen ...?",
+                "options": {
+                    "A": "keine Eier, wenn es dunkel ist",
+                    "B": "nur Eier, wenn keine alten Hennen in der Nähe sind",
+                    "C": "häufig Eier mit zwei Dottern"
+                },
+                "correct": "C"
+            },
+            {
+                "question": "Ein Deo-Roller zum Nachfüllen hilft auch bei ...?",
+                "options": {
+                    "A": "schmerzenden Muskeln",
+                    "B": "Hausstauballergie",
+                    "C": "altersbedingter Weitsichtigkeit"
+                },
+                "correct": "A"
+            },
+            {
+                "question": "Was kann in der Küche zum Verschliessen von offenen Tüten genutzt werden?",
+                "options": {
+                    "A": "Dosenöffner und Teelöffel",
+                    "B": "Gemüseschäler und Blatt Papier",
+                    "C": "Messer und Korken"
+                },
+                "correct": "C"
+            },
+            {
+                "question": "Der Waffle-House-Index in den USA gibt einen Hinweis darauf, wie ...?",
+                "options": {
+                    "A": "gross die Schäden nach einem Sturm sind",
+                    "B": "viele Amerikaner Übergewicht haben",
+                    "C": "sich der Kurs des Dollars aktuell entwickelt"
+                },
+                "correct": "A"
+            },
+            {
+                "question": "Wochentags zwischen 16 und 19 Uhr ist ...?",
+                "options": {
+                    "A": "die beste Zeit, um Sport zu treiben",
+                    "B": "eine gute Zeit, um Zitrusfrüchte zu essen",
+                    "C": "die menschliche Empathiefähigkeit besonders hoch"
+                },
+                "correct": "A"
+            },
+            {
+                "question": "Die Wählervereinigung «Pro Bockwurst» ...?",
+                "options": {
+                    "A": "ist eigentlich eine vegane Bewegung",
+                    "B": "wurde im Sommer 2018 von Uli Hoeness gegründet",
+                    "C": "stellt seit Oktober 2018 den Oberbürgermeister in Ilmenau"
+                },
+                "correct": "C"
+            },
+            {
+                "question": "",
+                "options": {
+                    "B": "in Kombination mit Sonneneinstrahlung ein klebriges Harz bildet",
+                    "A": "als Düngemittel verwendet werden kann",
+                    "C": "Bäumen über die Blätter Feuchtigkeit entzieht"
+                },
+                "correct": "C"
+            }
+        ]
+    },
+    {
+        "date": "3. Januar 2019",
+        "questions": [
+            {
+                "question": "Von welchem Instrument wird vor einer Orchesteraufführungder Kammerton a' vorgegeben?",
+                "options": {
+                    "A": "Cello",
+                    "B": "Trompete",
+                    "C": "Oboe"
+                },
+                "correct": "C"
+            },
+            {
+                "question": "Was gilt für die Entfernungsangaben auf Autobahnschildern als Ausgangspunkt?",
+                "options": {
+                    "A": "geographische Stadtmitte",
+                    "B": "historischer Ortsmittelpunkt",
+                    "C": "gelbes Ortseingangsschild"
+                },
+                "correct": "B"
+            },
+            {
+                "question": "Die Kosten einer Geburtstagsfeier in der Firma können von der Steuer abgesetzt werden, wenn unter anderem ...?",
+                "options": {
+                    "A": "der Chef eine mindestens 15-minütige Rede hält",
+                    "B": "die Gästeauswahl nicht nach Sympathie erfolgt",
+                    "C": "kein Alkohol ausgeschenkt wird und die Feier vor 20 Uhr endet"
+                },
+                "correct": "B"
+            },
+            {
+                "question": "Warum ist es nicht ratsam, störende Wespen wegzupusten?",
+                "options": {
+                    "A": "Die gelösten Zuckerstoffe im Speichel locken sie zusätzlich.",
+                    "B": "Die Wespe versucht umso stärker, gegen den Luftstrom anzufliegen.",
+                    "C": "Der Kohlendioxidgehalt der Atemluft macht sie aggressiv."
+                },
+                "correct": "C"
+            },
+            {
+                "question": "Wogegen kann eine Einmalwindel am Strand hilfreich sein?",
+                "options": {
+                    "A": "das Wegfliegen des Sonnenschirms",
+                    "B": "neugierige Langfinger",
+                    "C": "verstreuten Sand auf dem Handtuch"
+                },
+                "correct": "B"
+            },
+            {
+                "question": "Um die Entwicklung des Landes zu messen, erhebt Bhutan ...?",
+                "options": {
+                    "A": "den IQ seiner Bürger",
+                    "B": "die Einzahlungen am Weltspartag",
+                    "C": "Faktoren wie Zeitnutzung und Schlafqualität"
+                },
+                "correct": "C"
+            },
+            {
+                "question": "Was lässt sich aus Gelatine, Glyzerin, Essig und alter Zeitung selbst herstellen?",
+                "options": {
+                    "A": "biologisches Tastaturreinigungsgel",
+                    "B": "plastikfreier Klebestreifen",
+                    "C": "Panzerfolie für Smartphone-Displays"
+                },
+                "correct": "B"
+            },
+            {
+                "question": "Wer bei einem Spaziergang oder in seinem Garten Baumflechtenentdeckt, kann davon ausgehen, dass ...?",
+                "options": {
+                    "A": "die Luft dort besonders rein ist",
+                    "B": "die Pflanze unter einer Baumkrankheit leidet",
+                    "C": "der Baum auf nährstoffreichem Boden wächst"
+                },
+                "correct": "A"
+            },
+            {
+                "question": "Wer sich für Vollkorn- statt Weissmehl entscheidet, ernährt sich nicht nur gesünder, sondern ...?",
+                "options": {
+                    "A": "schont auch die Zähne",
+                    "B": "beugt auch Haarausfall vor",
+                    "C": "regeneriert langfristig seine Geschmacksrezeptoren"
+                },
+                "correct": "A"
+            },
+            {
+                "question": "Um 1750 erntete der Brite Jonas Hanway in den Strassen Londons Spott und Beleidigungen, da er ...?",
+                "options": {
+                    "A": "ein Hündchen Gassi führte",
+                    "B": "Hosenträger trug",
+                    "C": "einen Regenschirm benutzte"
+                },
+                "correct": "C"
+            },
+            {
+                "question": "Warum verkauft Erfolgsautor Stephen King die Rechte seiner Kurzgeschichten hin und wieder für einen Dollar?",
+                "options": {
+                    "A": "weil er eine Wette gegen John Grisham verloren hat",
+                    "B": "weil er so die Verkaufszahlen seiner Bücher vorantreibt",
+                    "C": "damit Filmstudenten daraus Filme machen können"
+                },
+                "correct": "C"
+            },
+            {
+                "question": "Digitus II, Digitus III und Digitus IV heissen die drei ...?",
+                "options": {
+                    "A": "Tasten «Strg», «Alt» und «Enter» in Programmiersprache",
+                    "B": "bisher fertiggestellten Kirchtürme der Sagrada Familia",
+                    "C": "Zehen zwischen grossem und kleinem Zeh"
+                },
+                "correct": "C"
+            },
+            {
+                "question": "Ein neuer Trend aus den USA sind Tätowierungen, die ...?",
+                "options": {
+                    "A": "sich bewegen",
+                    "B": "auf Knopfdruck erscheinen und verschwinden",
+                    "C": "Geräusche speichern"
+                },
+                "correct": "C"
+            }
+        ]
+    },
+    {
+        "date": "4. Januar 2019",
+        "questions": [
+            {
+                "question": "Welche Hauptstadt liegt in Luftlinie Berlin am nächsten?",
+                "options": {
+                    "A": "Kopenhagen",
+                    "B": "Warschau",
+                    "C": "Prag"
+                },
+                "correct": "C"
+            },
+            {
+                "question": "Was zeigt in Profi-Küchen an, dass der Pfannengriff heiss ist?",
+                "options": {
+                    "A": "um 45 Grad nach aussen gedrehter Pfannengriff",
+                    "B": "Kochlöffel im Griffloch",
+                    "C": "über den Griff gelegtes Küchentuch"
+                },
+                "correct": "C"
+            },
+            {
+                "question": "Wer bekam im Jahr 2018 den Spitznamen «kopfloses Hühnermonster» verliehen?",
+                "options": {
+                    "A": "in der antarktischen Tiefsee beobachtete Seegurke",
+                    "B": "jüngst gewählter Spitzenpolitiker der britischen Labour Party",
+                    "C": "neugebaute Philharmonie im texanischen El Paso"
+                },
+                "correct": "A"
+            },
+            {
+                "question": "Weshalb warnen Ärzte vor der unkontrollierten Einnahme von Aktivkohle?",
+                "options": {
+                    "A": "Die Partikel der Kohle reichern sich im Organismus an.",
+                    "B": "Medikamente wie die Antibabypille können unwirksam werden.",
+                    "C": "Die erhöhte Kohlenstoffdosis kann Bluthochdruck hervorrufen."
+                },
+                "correct": "B"
+            },
+            {
+                "question": "Um dem Abfärben von Lederschuhen auf Socken vorzubeugen, werden die Schuhe von innen mit ...?",
+                "options": {
+                    "A": "Haarspray eingesprüht",
+                    "B": "Olivenöl bestrichen",
+                    "C": "Backpulver eingerieben"
+                },
+                "correct": "A"
+            },
+            {
+                "question": "Industrieschnee ...?",
+                "options": {
+                    "A": "wird bei der Herstellung von Raufasertapeten verwendet",
+                    "B": "entsteht im Winter durch Emissionen von Fabriken",
+                    "C": "bildet sich in Klimaanlagen, die zu kalt eingestellt sind"
+                },
+                "correct": "B"
+            },
+            {
+                "question": "«Anfassen am Zipfel» ist eine gängige Prüfmethode unter ...?",
+                "options": {
+                    "A": "Falschgeldfühlern",
+                    "B": "Wurstpflegern",
+                    "C": "Mützentestern"
+                },
+                "correct": "B"
+            },
+            {
+                "question": "Welcher Trick zeigt auch im Winter, ob noch Leben in einer Gartenpflanze ist?",
+                "options": {
+                    "A": "Die Rinde lässt sich nur schwer entfernen und bröckelt nicht.",
+                    "B": "Äste lassen sich biegen und brechen nicht.",
+                    "C": "Ein Nadelstich in den Stamm lässt grünliches Wasser austreten."
+                },
+                "correct": "B"
+            },
+            {
+                "question": "Ein Brief der 11-jährigen Amerikanerin Grace Bedellführte 1860 dazu, dass ...?",
+                "options": {
+                    "A": "Charles Darwin sein Theologiestudium abbrach",
+                    "B": "Samuel Langhorne Clemens das Pseudonym Mark Twain annahm",
+                    "C": "sich Abraham Lincoln einen Bart wachsen liess"
+                },
+                "correct": "C"
+            },
+            {
+                "question": "Was wurde durch die Einführung des Differentialgetriebes am Auto möglich?",
+                "options": {
+                    "A": "Beide Reifen einer Achse können Vortrieb leisten.",
+                    "B": "Das Lenkrad muss sich nicht in der Mitte des Wagens befinden.",
+                    "C": "Bremsen können sowohl vorne als auch hinten montiert werden."
+                },
+                "correct": "A"
+            },
+            {
+                "question": "Ungefähr 500 Millionen ...?",
+                "options": {
+                    "A": "Zugvögel ziehen jedes Jahr durch Deutschland",
+                    "B": "Euro geben Deutschlandreisende jährlich für Übernachtungen aus",
+                    "C": "Menschen werden für eine erdumspannende Kette benötigt"
+                },
+                "correct": "A"
+            },
+            {
+                "question": "Warum werden in vielen Orten der Eifel in den Sommermonaten traditionell Tierknochen vergraben?",
+                "options": {
+                    "A": "Sie sollen das Fundament von Häusern verstärken.",
+                    "B": "Die Bauern zahlen damit symbolisch ihre Steuern.",
+                    "C": "Das Ende des Kirchweihfests wird so markiert."
+                },
+                "correct": "C"
+            },
+            {
+                "question": "Was war in Norwegen von 1978 bis 1989 verboten?",
+                "options": {
+                    "A": "Einfuhr, Verzehr und Züchtung von Preiselbeeren",
+                    "B": "Verwendung, Verkauf und Besitz von Skateboards",
+                    "C": "Zubereitung von Mikrowellen-Gerichten"
+                },
+                "correct": "B"
+            },
+            {
+                "question": "# Version 2021.03",
+                "options": {
+                    "A": "Donau, Inn und Ilz",
+                    "B": "Isar, Donau und Vils",
+                    "C": "Main, Salzach und Regen"
+                },
+                "correct": "A"
+            }
+        ]
+    }
+]

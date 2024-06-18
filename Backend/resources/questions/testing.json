@@ -1,0 +1,105 @@
+[
+  {
+    "questions": [
+      {
+        "question": "Frage 1",
+        "options": {
+          "A": "Korrekte Antwort",
+          "B": "Falsche Antwort",
+          "C": "Falsche Antwort"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Frage 2",
+        "options": {
+          "A": "Korrekte Antwort",
+          "B": "Falsche Antwort",
+          "C": "Falsche Antwort"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Frage 3",
+        "options": {
+          "A": "Korrekte Antwort",
+          "B": "Falsche Antwort",
+          "C": "Falsche Antwort"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Frage 4",
+        "options": {
+          "A": "Korrekte Antwort",
+          "B": "Falsche Antwort",
+          "C": "Falsche Antwort"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Frage 5",
+        "options": {
+          "A": "Korrekte Antwort",
+          "B": "Falsche Antwort",
+          "C": "Falsche Antwort"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Frage 6",
+        "options": {
+          "A": "Korrekte Antwort",
+          "B": "Falsche Antwort",
+          "C": "Falsche Antwort"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Frage 7",
+        "options": {
+          "A": "Korrekte Antwort",
+          "B": "Falsche Antwort",
+          "C": "Falsche Antwort"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Frage 8",
+        "options": {
+          "A": "Korrekte Antwort",
+          "B": "Falsche Antwort",
+          "C": "Falsche Antwort"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Frage 9",
+        "options": {
+          "A": "Korrekte Antwort",
+          "B": "Falsche Antwort",
+          "C": "Falsche Antwort"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Frage 10",
+        "options": {
+          "A": "Korrekte Antwort",
+          "B": "Falsche Antwort",
+          "C": "Falsche Antwort"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Frage 11",
+        "options": {
+          "A": "Korrekte Antwort",
+          "B": "Falsche Antwort",
+          "C": "Falsche Antwort"
+        },
+        "correct": "A"
+      }
+    ]
+  }
+]
